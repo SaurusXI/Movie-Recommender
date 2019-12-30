@@ -5,4 +5,5 @@ first, second and third contain ipython notebooks each with it's own model. The 
 * third - collaborative filtering recommender
 Final ensemble model weighs all three along with ratings of movies. <br><br>
 Dataset available at https://www.kaggle.com/rounakbanik/the-movies-dataset <br>
-Copy .csv files to working directory to run notebooks
+Copy .csv files to working directory to run notebooks <br><br>
+**second also contains the ensemble model**
